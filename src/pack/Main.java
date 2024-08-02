@@ -13,7 +13,7 @@ public class Main {
 
         String url = "jdbc:mysql://localhost:3306/Airline";
         String user = "root";
-        String password = "Rlwl2023.";
+        String password = "password";
 
         try {
             Connection connection = DriverManager.getConnection(url, user, password);
